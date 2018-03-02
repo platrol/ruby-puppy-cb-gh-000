@@ -1,6 +1,5 @@
 class Dog
   @@all = []
-  @@names = []
   attr_accessor name
 
   def initialize(name)
